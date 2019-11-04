@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1550098876 source:d:\projects\sortresearch\bubble.c
+	<stdio.h>
+	<stdlib.h>
+
+1550952824 source:d:\projects\sortresearch\sort.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1550268161 source:d:\projects\sortresearch\filling_input_array.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
